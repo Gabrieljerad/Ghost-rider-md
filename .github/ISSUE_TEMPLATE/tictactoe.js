@@ -1,4 +1,4 @@
-class TicTacToe {
+classic TicTacToe {
     constructor(playerX = 'x', playerO = 'o') {
         this.playerX = playerX
         this.playerO = playerO
