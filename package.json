@@ -22,7 +22,7 @@
   "license": "MIT",
   "dependencies": {
         "@adiwajshing/baileys": "^4.4.0",
-        "@adiwajshing/baileys2": "npm:gabby-ytdl-core",
+        "@adiwajshing/baileys2": "npm:Gabby-ytdl-core",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@adiwajshing/keyed-db2": "github:Gabby/Gabby-yt-search",
         "awesome-phonenumber": "^2.64.0",
