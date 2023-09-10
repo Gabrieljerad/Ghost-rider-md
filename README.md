@@ -1,6 +1,13 @@
 # Ghost-rider-md
 A WhatsApp bot
    based on pyhon and java
+
+
+
+<p align="center">
+<img src="https://i.ibb.co/2gb8NCg/af6b90ea166c.jpg" alt="Ghost-bot-MD" width="900"/>
+</p>
+
 __________________________________
 
  #Setting up#
